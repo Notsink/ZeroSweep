@@ -3,7 +3,7 @@
 https://www.python.org/downloads/
 
 LICENSE
-https://github.com/Notsink/zerosweep
+https://github.com/Notsink/ZeroSweep/releases
 
 🚀 Blazing-fast • 🧠 AI-smart • 🖥️ GUI+CLI • 🕶️ Stealth-mode • 📊 Rich reports
 All in one file – no external binaries, no root, no drama.
