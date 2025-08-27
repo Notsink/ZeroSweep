@@ -1,4 +1,4 @@
-# ZeroSweep 3 – One-file AI port-scanner with superpowers
+# ZeroSweep – One-file port-scanner with superpowers ⭐
 
 https://www.python.org/downloads/
 
